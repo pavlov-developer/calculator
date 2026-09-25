@@ -1,2 +1,11 @@
-# calculator
-Simple calculator on Python
+# Calculator
+
+Мой первый проект на GitHub.
+Простой калькулятор на Python. Считает, делит, умножает, вычитает.
+
+## Как запустить
+1. Скачай файл `calculator.py` из этого репозитория.
+2. Открой терминал в папке с файлом.
+3. Запусти `python calculator.py` (если команда `python` не сработает, попробуй: `python3 calculator.py`)
+
+Буду рад любым советам! 
